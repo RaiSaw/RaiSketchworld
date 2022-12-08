@@ -1,2 +1,2 @@
-# RaiSaw.github.io
-my personal website
+# Art Portfolio
+my personal art website
